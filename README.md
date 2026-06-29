@@ -8,7 +8,7 @@
 
 **AI Portfolio** — это интеллектуальный Telegram-бот, представляющий собой цифровую копию Python-разработчика. Бот предназначен для демонстрации профессиональных навыков, проектов и опыта специалиста в интерактивном формате. В основе бота лежит архитектура RAG (Retrieval-Augmented Generation), позволяющая давать точные и контекстуально-обоснованные ответы на основе приватной базы знаний.
 
-<details>
+<details open>
 <summary>🖥 Посмотреть скриншот и QR-код telegram бота</summary>
 <img width="1060" height="670" alt="screen_portfolio" src="https://github.com/user-attachments/assets/a61d95f2-a1c9-45c8-9db6-d4ee0f0b3fb7" />
 
